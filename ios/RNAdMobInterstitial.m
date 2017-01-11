@@ -1,5 +1,5 @@
 #import "RNAdMobInterstitial.h"
-#import "RCTConvert.h"
+#import <React/RCTConvert.h>
 #import <CoreLocation/CoreLocation.h>
 
 @implementation RNAdMobInterstitial {
